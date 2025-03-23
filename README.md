@@ -11,3 +11,5 @@ Repo to track interesting papers, articles, and code
 - https://github.com/altdeep/causalML?tab=readme-ov-file#causal-modeling-in-machine-learning-workshop-repository
 - https://psantanna.com/did-resources/
 - https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031574
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5131050
