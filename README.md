@@ -13,3 +13,6 @@ Repo to track interesting papers, articles, and code
 - https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031574
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5131050
+
+## Causal Bayesian Optimization with Unknown Causal Graphs
+https://arxiv.org/pdf/2503.19554
