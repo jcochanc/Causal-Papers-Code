@@ -9,7 +9,13 @@ Repo to track interesting papers, articles, and code
 - https://github.com/konstantinhess/Efficient_sharp_policy_learning?utm_source=LinkedIn&utm_medium=post&utm_campaign=monday_posting&utm_term=2024_03_10
 - https://arxiv.org/pdf/2503.01475
 - https://github.com/altdeep/causalML?tab=readme-ov-file#causal-modeling-in-machine-learning-workshop-repository
+
+### DiD Resources
+
 - https://psantanna.com/did-resources/
+
+### Nonparametric causal decomposition of group disparities
+
 - https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full
 
 ### Causal Factor Analysis is a Necessary Condition for Investment Efficiency
@@ -17,5 +23,5 @@ Repo to track interesting papers, articles, and code
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031574
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5131050
 
-## Causal Bayesian Optimization with Unknown Causal Graphs
+### Causal Bayesian Optimization with Unknown Causal Graphs
 https://arxiv.org/pdf/2503.19554
