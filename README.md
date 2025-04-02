@@ -26,6 +26,8 @@ Repo to track interesting papers, articles, and code
 ### Causal Bayesian Optimization with Unknown Causal Graphs
 - https://arxiv.org/pdf/2503.19554
 
-### Why Propensity Scores Should Not Be Used for
-Matching
+### Why Propensity Scores Should Not Be Used for Matching
 - https://gking.harvard.edu/sites/scholar.harvard.edu/files/gking/files/pan1900011_rev.pdf
+
+### DOES REGRESSION PRODUCE REPRESENTATIVE CAUSAL RANKINGS?
+- https://apoorvalal.github.io/pdfhosting/pdf/regrank.pdf
