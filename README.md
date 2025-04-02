@@ -31,3 +31,6 @@ Repo to track interesting papers, articles, and code
 
 ### DOES REGRESSION PRODUCE REPRESENTATIVE CAUSAL RANKINGS?
 - https://apoorvalal.github.io/pdfhosting/pdf/regrank.pdf
+
+### Causal Inference and Uplift Modeling: A review of the literature
+- https://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf
