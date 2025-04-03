@@ -34,3 +34,6 @@ Repo to track interesting papers, articles, and code
 
 ### Causal Inference and Uplift Modeling: A review of the literature
 - https://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf
+
+### CATE and ITE Under Ignorability Assumptions
+- https://arxiv.org/pdf/2108.04939
