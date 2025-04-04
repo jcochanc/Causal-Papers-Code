@@ -1,18 +1,14 @@
 # Causal-Papers-Code
 Repo to track interesting papers, articles, and code
 
-- https://nraden.medium.com/part-1-can-causal-analysis-change-business-applying-causality-in-ai-and-beyond-db614aa6eeed
-- https://docs.doubleml.org/stable/index.html
-- https://github.com/ostojanovic/causalML/tree/main
-- https://www.reimagine-energy.ai/p/code-tutorial-building-a-counterfactual
-- https://yasenov.com/2023/08/machine-learning-regression-adjustments-in-a-b-tests/
-- https://github.com/konstantinhess/Efficient_sharp_policy_learning?utm_source=LinkedIn&utm_medium=post&utm_campaign=monday_posting&utm_term=2024_03_10
-- https://arxiv.org/pdf/2503.01475
-- https://github.com/altdeep/causalML?tab=readme-ov-file#causal-modeling-in-machine-learning-workshop-repository
-
 ### DiD Resources
 
 - https://psantanna.com/did-resources/
+
+## Literature
+
+### ProRCA: A Causal Python Package for Root Cause Analysis 
+- https://arxiv.org/pdf/2503.01475
 
 ### Nonparametric causal decomposition of group disparities
 
@@ -40,3 +36,29 @@ Repo to track interesting papers, articles, and code
 
 ### Copula-based Sensitivity Analysis for Multi-Treatment Causal Inference with Unobserved Confounding
 - https://arxiv.org/pdf/2102.09412
+
+## Articles
+
+### Can causal analysis change business? Applying causality in AI and beyond
+- https://nraden.medium.com/part-1-can-causal-analysis-change-business-applying-causality-in-ai-and-beyond-db614aa6eeed
+
+### Machine Learning Regression Adjustments in A/B Tests
+- https://yasenov.com/2023/08/machine-learning-regression-adjustments-in-a-b-tests/
+
+## Packages/Code
+
+### DoubleML package
+- https://docs.doubleml.org/stable/index.html
+
+### CausalML Notebooks
+- https://github.com/ostojanovic/causalML/tree/main
+
+### Building a Counterfactual Energy Model for Savings Verification
+- https://www.reimagine-energy.ai/p/code-tutorial-building-a-counterfactual
+
+### Efficient and sharp policy learning under unobserved confounding
+- https://github.com/konstantinhess/Efficient_sharp_policy_learning
+
+### Causal Modeling in Machine Learning Workshop 
+- https://github.com/altdeep/causalML?tab=readme-ov-file#causal-modeling-in-machine-learning-workshop-repository
+
