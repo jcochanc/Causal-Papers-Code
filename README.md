@@ -1,11 +1,12 @@
 # Causal-Papers-Code
 Repo to track interesting papers, articles, and code
 
+
+## Literature
+
 ### DiD Resources
 
 - https://psantanna.com/did-resources/
-
-## Literature
 
 ### ProRCA: A Causal Python Package for Root Cause Analysis 
 - https://arxiv.org/pdf/2503.01475
