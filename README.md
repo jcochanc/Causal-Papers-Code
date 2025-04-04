@@ -37,3 +37,6 @@ Repo to track interesting papers, articles, and code
 
 ### CATE and ITE Under Ignorability Assumptions
 - https://arxiv.org/pdf/2108.04939
+
+### Copula-based Sensitivity Analysis for Multi-Treatment Causal Inference with Unobserved Confounding
+- https://arxiv.org/pdf/2102.09412
