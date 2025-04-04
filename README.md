@@ -4,6 +4,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### A/B Testing Intuition Busters
+- https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view
+
 ### DiD Resources
 
 - https://psantanna.com/did-resources/
