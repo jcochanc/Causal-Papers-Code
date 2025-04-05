@@ -4,6 +4,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Marketing RCTs etc
+- https://arxiv.org/pdf/2201.07055
+
+Thoughts: Interesting paper on varying approaches in marketing. Probably the strength of this paper is the comparison of multiple methods and the “meta-analysis” being done. Their work shows the effect is over estimated by DML and SPSM.
+
 ### RieszBoost: Gradient Boosting for Riesz Regression
 
 - https://arxiv.org/pdf/2501.04871
