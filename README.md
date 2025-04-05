@@ -4,6 +4,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Extensible Experimentation Platform: Effective A/B Test Analysis at Scale
+- https://www.researchgate.net/publication/388630852_Extensible_Experimentation_Platform_Effective_AB_Test_Analysis_at_Scale
+
+Idea: A/B testing at scale: 100,000 experiments/year are now run at Microsoft based on a new paper to appear in ICSA 2025.
+
 ### Difference-in-Differences Designs: A Practitioner’s Guide
 - https://arxiv.org/pdf/2503.13323
 
