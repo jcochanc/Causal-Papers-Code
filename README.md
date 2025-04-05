@@ -28,6 +28,7 @@ Idea: New paper on estimating treatment function using gradient boosting. Helpfu
 ### ProRCA: A Causal Python Package for Root Cause Analysis 
 - https://arxiv.org/pdf/2503.01475
 
+Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the counterfactuals DoCalculus use are not realistic. But aside from that, a great way to begin merging the ideas of RCA and causal.
 ### Nonparametric causal decomposition of group disparities
 
 - https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Nonparametric-causal-decomposition-of-group-disparities/10.1214/24-AOAS1990.full
