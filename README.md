@@ -4,6 +4,12 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### RieszBoost: Gradient Boosting for Riesz Regression
+
+- https://arxiv.org/pdf/2501.04871
+
+Idea: New paper on estimating treatment function using gradient boosting. Helpful in high dimensional settings. 
+
 ### A/B Testing Intuition Busters
 - https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view
 
