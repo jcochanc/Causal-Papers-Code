@@ -4,6 +4,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Difference-in-Differences Designs: A Practitioner’s Guide
+- https://arxiv.org/pdf/2503.13323
+
 ### Marketing RCTs etc
 - https://arxiv.org/pdf/2201.07055
 
