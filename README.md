@@ -60,6 +60,9 @@ Idea: New paper on estimating treatment function using gradient boosting. Helpfu
 ### Machine Learning Regression Adjustments in A/B Tests
 - https://yasenov.com/2023/08/machine-learning-regression-adjustments-in-a-b-tests/
 
+### MIT: CausalML
+- https://archive.is/2025.03.18-090955/https://sloanreview.mit.edu/article/a-new-machine-learning-approach-answers-what-if-questions/
+
 ## Packages/Code
 
 ### DoubleML package
