@@ -4,6 +4,26 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Bayesian A/B Testing at VWO
+- https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf
+
+Idea: A white paper that discusses an idea I’ve been mulling over. 
+
+### Difference-in-Differences with multiple time periods
+- https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948
+- https://arxiv.org/abs/1803.09015
+
+Discussion: 
+- https://bcallaway11.github.io/did/articles/multi-period-did.html
+
+### Efficient Estimation for Staggered Rollout Designs
+- https://arxiv.org/pdf/2102.01291
+
+### The stepped wedge cluster randomised trial: rationale, design, analysis, and reporting
+- http://dx.doi.org/10.1136/BMJ.h391
+
+Thoughts: The RCT of staggered DiD. 
+
 ### Extensible Experimentation Platform: Effective A/B Test Analysis at Scale
 - https://www.researchgate.net/publication/388630852_Extensible_Experimentation_Platform_Effective_AB_Test_Analysis_at_Scale
 
@@ -73,6 +93,13 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 - https://archive.is/2025.03.18-090955/https://sloanreview.mit.edu/article/a-new-machine-learning-approach-answers-what-if-questions/
 
 ## Packages/Code
+
+### Staggered Rollout Design
+- https://github.com/jonathandroth/staggered
+
+### Staggered Design
+- https://github.com/bcallaway11/did (R)
+- https://github.com/d2cml-ai/csdid (Python) 
 
 ### DoubleML package
 - https://docs.doubleml.org/stable/index.html
