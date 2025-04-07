@@ -4,6 +4,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Constraint-based causal discovery with tiered background knowledge and latent variables in single or overlapping datasets
+- https://arxiv.org/pdf/2503.21526
+
+Idea: temporal causal discovery across overlapping datasets, even with latent variables.
+
 ### Bayesian A/B Testing at VWO
 - https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf
 
