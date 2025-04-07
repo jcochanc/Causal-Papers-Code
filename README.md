@@ -93,6 +93,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Articles
 
+### More Power More Underpowered A/B Tests
+- https://blog.conductrics.com/cupeds-sting-more-power-more-underpowered-a-b-tests/
+
 ### Can causal analysis change business? Applying causality in AI and beyond
 - https://nraden.medium.com/part-1-can-causal-analysis-change-business-applying-causality-in-ai-and-beyond-db614aa6eeed
 
