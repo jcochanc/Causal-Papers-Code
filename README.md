@@ -9,6 +9,11 @@ Repo to track interesting papers, articles, and code
 
 Idea: temporal causal discovery across overlapping datasets, even with latent variables.
 
+### DeCaFlow: A Deconfounding Causal Generative Model
+- https://arxiv.org/pdf/2503.15114
+
+Thoughts: model can identify queries impacted by hidden confounding using a number of strategies, including proximal inference
+
 ### Bayesian A/B Testing at VWO
 - https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf
 
