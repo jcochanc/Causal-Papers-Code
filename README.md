@@ -4,6 +4,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Learning Causal Effects From Observational Data in Healthcare: A Review and Summary
+- https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.864882/pdf
+
+Thoughts: properly classifies causal inference frameworks and models based on their intervention applications with respect to population size. The table and flowchart below serve as a memory refresher and quick reference guide for anyone learning causal inference
+
 ### Constraint-based causal discovery with tiered background knowledge and latent variables in single or overlapping datasets
 - https://arxiv.org/pdf/2503.21526
 
