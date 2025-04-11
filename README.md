@@ -98,6 +98,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Articles
 
+### Tracking outliers in A/B testing
+- https://statsig.com/blog/tracking-outliers-ab-testing
+
 ### More Power More Underpowered A/B Tests
 - https://blog.conductrics.com/cupeds-sting-more-power-more-underpowered-a-b-tests/
 
