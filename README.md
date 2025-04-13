@@ -121,6 +121,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Packages/Code
 
+### CausalLift: Python package for Uplift
+- https://causallift.readthedocs.io/en/latest/contents/00.html
+
 ### Staggered Rollout Design
 - https://github.com/jonathandroth/staggered
 
