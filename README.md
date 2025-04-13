@@ -121,6 +121,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Packages/Code
 
+###Introduction to Bayesian A/B Testing
+- https://www.pymc.io/projects/examples/causal_inference/bayesian_ab_testing_introduction.html
+
 ### CausalLift: Python package for Uplift
 - https://causallift.readthedocs.io/en/latest/contents/00.html
 
