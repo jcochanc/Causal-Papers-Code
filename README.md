@@ -4,6 +4,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### How Much Should We Trust Staggered Difference-In-Differences Estimates?
+- https://www.hbs.edu/ris/Publication%20Files/21-112_8a5a4ab3-b9e7-447d-a0fe-a504b3890fb9.pdf
+
 ### Quantiles in Nonrandom Samples and Observational Studies
 - https://www.jstor.org/stable/2291534
 
