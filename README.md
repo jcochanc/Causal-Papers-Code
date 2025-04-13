@@ -4,6 +4,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Quantiles in Nonrandom Samples and Observational Studies
+- https://www.jstor.org/stable/2291534
+
 ### Potential Outcome and Directed Acyclic Graph Approaches to Causality
 - https://arxiv.org/pdf/1907.07271
 
