@@ -4,6 +4,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Potential Outcome and Directed Acyclic Graph Approaches to Causality
+- https://arxiv.org/pdf/1907.07271
+
 ### Learning Causal Effects From Observational Data in Healthcare: A Review and Summary
 - https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.864882/pdf
 
