@@ -4,6 +4,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Black Box Causal Inference: Effect Estimation via Meta Prediction
+- https://arxiv.org/abs/2503.05985
+
+Note: frames causal inference as a dataset-level prediction problem, offloading algorithm design to the learning process
+
 ### How Much Should We Trust Staggered Difference-In-Differences Estimates?
 - https://www.hbs.edu/ris/Publication%20Files/21-112_8a5a4ab3-b9e7-447d-a0fe-a504b3890fb9.pdf
 
