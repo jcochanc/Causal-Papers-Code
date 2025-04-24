@@ -4,6 +4,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### How to conduct and report online platform studies
+- https://www.sciencedirect.com/science/article/pii/S0167811624001149
+
+Note: Studies lack true random assignment of ads to consumers, preventing causal inference. A review of 133 published online platform studies revea these studies are mistakenly presented as (randomized) experiments. If you understand where the randomization occurs (group assignment, not ad impressions), you can get valid learnings. 
+
 ### Black Box Causal Inference: Effect Estimation via Meta Prediction
 - https://arxiv.org/abs/2503.05985
 
