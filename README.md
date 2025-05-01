@@ -134,6 +134,11 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Packages/Code
 
+### py why llm
+- https://github.com/py-why/pywhyllm
+
+Note: Experimental library integrating LLM capabilities to support causal analyses
+
 ### Introduction to Bayesian A/B Testing
 - https://github.com/pymc-devs/pymc-examples/blob/main/examples/causal_inference/bayesian_ab_testing_introduction.ipynb
 - broken: https://www.pymc.io/projects/examples/causal_inference/bayesian_ab_testing_introduction.html
