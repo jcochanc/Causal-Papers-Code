@@ -11,6 +11,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### HiPPO 
+- https://exp-platform.com/Documents/GuideControlledExperiments.pdf
+
 ### How to conduct and report online platform studies
 - https://www.sciencedirect.com/science/article/pii/S0167811624001149
 
@@ -140,6 +143,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ### MIT: CausalML
 - https://archive.is/2025.03.18-090955/https://sloanreview.mit.edu/article/a-new-machine-learning-approach-answers-what-if-questions/
+
+### HiPPO Slides
+- https://exp-platform.com/Documents/controlledExperimentsHippoEbay.pdf
 
 ## Packages/Code
 
