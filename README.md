@@ -11,6 +11,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Ghost Ads: Improving the Economics of Measuring Online Ad Eﬀectiveness
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620078
+
 ### Psychological targeting as an effective approach to digital mass persuasion
 - https://www.pnas.org/doi/10.1073/pnas.1710966114
 
