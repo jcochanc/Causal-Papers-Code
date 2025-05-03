@@ -11,13 +11,16 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Psychological targeting as an effective approach to digital mass persuasion
+- https://www.pnas.org/doi/10.1073/pnas.1710966114
+
+** Summary Discussion **: https://www.pnas.org/doi/10.1073/pnas.1805363115
+
 ### HiPPO 
 - https://exp-platform.com/Documents/GuideControlledExperiments.pdf
 
 ### How to conduct and report online platform studies
 - https://www.sciencedirect.com/science/article/pii/S0167811624001149
-
-** Summary Discussion **: https://www.pnas.org/doi/10.1073/pnas.1805363115
 
 Note: Studies lack true random assignment of ads to consumers, preventing causal inference. A review of 133 published online platform studies revea these studies are mistakenly presented as (randomized) experiments. If you understand where the randomization occurs (group assignment, not ad impressions), you can get valid learnings. 
 
