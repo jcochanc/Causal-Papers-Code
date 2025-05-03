@@ -1,6 +1,9 @@
 # Causal-Papers-Code
 Repo to track interesting papers, articles, and code
 
+[1. Literature](#literature)
+[2. Articles](#articles)
+[3. Code](#code)
 
 ## Literature
 
@@ -117,6 +120,8 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Articles
 
+### CausalPy
+- https://nathanielf.github.io/talks/pycon_ireland_causalpy/pycon_2024.html#/title-slide
 ### Tracking outliers in A/B testing
 - https://statsig.com/blog/tracking-outliers-ab-testing
 
