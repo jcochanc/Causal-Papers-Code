@@ -11,6 +11,11 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Step-by-step causal analysis of EHRs to ground decision-making
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11790099/pdf/pdig.0000721.pdf
+
+Note: Framework for causal analysis of electronic health records (EHRs). Gaël Varoquaux, one of the original co-founders of scikit-learn: Without causal thinking, machine learning is not enough for optimal clinical decision on an individual patient level. 
+
 ### Ghost Ads: Improving the Economics of Measuring Online Ad Eﬀectiveness
 - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2620078
 
