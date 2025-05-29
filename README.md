@@ -140,6 +140,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Articles
 
+### Algorithms for reliable decision-making need causal reasoning
+- https://www.nature.com/articles/s43588-025-00814-9
+
 ### CausalPy
 - https://nathanielf.github.io/talks/pycon_ireland_causalpy/pycon_2024.html#/title-slide
 ### Tracking outliers in A/B testing
