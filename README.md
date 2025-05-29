@@ -3,11 +3,11 @@ Repo to track interesting papers, articles, and code
 
 ## Table of Contents
 
-[1. Literature](# literature)
+[1. Literature](#literature)
 
-[2. Articles](# articles)
+[2. Articles](#articles)
 
-[3. Code](# code)
+[3. Code](#code)
 
 ## Literature
 
@@ -161,6 +161,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 - https://exp-platform.com/Documents/controlledExperimentsHippoEbay.pdf
 
 ## Packages/Code
+
+### Outcome Weights
+- https://mcknaus.github.io/OutcomeWeights/articles/NB_OutcomeWeights_AIPW_401k.html
 
 ### py why llm
 - https://github.com/py-why/pywhyllm
