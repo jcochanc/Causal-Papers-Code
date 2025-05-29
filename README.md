@@ -7,7 +7,7 @@ Repo to track interesting papers, articles, and code
 
 [2. Articles](#articles)
 
-[3. Code](#code)
+[3. Code](#packages/code)
 
 ## Literature
 
