@@ -3,11 +3,11 @@ Repo to track interesting papers, articles, and code
 
 ## Table of Contents
 
-[1. Literature](#literature)
+[1. Literature](# literature)
 
-[2. Articles](#articles)
+[2. Articles](# articles)
 
-[3. Code](##code)
+[3. Code](# code)
 
 ## Literature
 
