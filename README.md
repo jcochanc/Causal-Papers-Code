@@ -140,6 +140,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 
 ## Articles
 
+## Bayesian v Frequentist Experiments 
+- https://www.statsig.com/blog/bayesian-vs-frequentist-statistics
+
 ### Algorithms for reliable decision-making need causal reasoning
 - https://www.nature.com/articles/s43588-025-00814-9
 
