@@ -11,6 +11,9 @@ Repo to track interesting papers, articles, and code
 
 ## Literature
 
+### Foundation Models for Causal Inference via Prior-Data Fitted Networks
+- https://arxiv.org/abs/2506.10914
+
 ### Step-by-step causal analysis of EHRs to ground decision-making
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC11790099/pdf/pdig.0000721.pdf
 
