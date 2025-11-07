@@ -169,6 +169,9 @@ Thoughts: Not a fan of Pearlean Causal Inference. We can talk about how the coun
 ### HiPPO Slides
 - https://exp-platform.com/Documents/controlledExperimentsHippoEbay.pdf
 
+### Synthetic Control Slides
+- https://jgreathouse9.github.io/qprez/scmintro.html#/title-slide
+
 ## Packages/Code
 
 ### Outcome Weights
